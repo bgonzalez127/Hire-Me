@@ -1,0 +1,40 @@
+body{
+    background-color:#34373a;
+    background-image: url("https://i.ytimg.com/vi/5zs2HybfO8Y/maxresdefault.jpg") ;
+}
+#name{
+    display:flex;
+    justify-content:center;
+}
+h1{
+    color:#afcaf7;
+    font-family:"Fascinate Inline";
+}
+p{
+    color:#afcaf7;
+    font-family:Fredericka the Great;
+}
+li{
+    color:#afcaf7;
+    font-family:Diplomata;
+}
+#tenyears{
+    display:flex;
+    justify-content:center;
+}
+#photo{
+    display:flex;
+    justify-content:center;
+}
+#artist{
+    display:flex;
+    justify-content:center;
+}
+img{
+    width:300px;
+    height:200px;
+}
+#titanic{
+    width:300px;
+    height:300px;
+}
