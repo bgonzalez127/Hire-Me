@@ -38,3 +38,7 @@ img{
     width:300px;
     height:300px;
 }
+:hover{
+    color:#f44271;
+    background-image: url("https://images.pexels.com/photos/990826/pexels-photo-990826.jpeg?cs=srgb&dl=abstract-art-artistic-990826.jpg&fm=jpg") ;
+}
